@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "306463485924",
+    "firebase_url": "https://myteroapp.firebaseio.com",
+    "project_id": "myteroapp",
+    "storage_bucket": "myteroapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306463485924:android:4674d34192051d34",
+        "android_client_info": {
+          "package_name": "com.example.android.myteroapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306463485924-sojjfr83sap8u8rktb3aoun75n85jf23.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.myteroapp",
+            "certificate_hash": "c6e3dd75919136d8febbd1294561076027b00020"
+          }
+        },
+        {
+          "client_id": "306463485924-7anilsvehlhscmvbh1fjpahg2gg890aa.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "306463485924-7anilsvehlhscmvbh1fjpahg2gg890aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBq98eMIB5fONgbw_IRvhg4YGCr-nlTDw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306463485924-7anilsvehlhscmvbh1fjpahg2gg890aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
