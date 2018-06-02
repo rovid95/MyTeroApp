@@ -131,7 +131,6 @@ public class LoginActivity extends AppCompatActivity {
                 }, 3000);*/
     }
 
-
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         if (requestCode == REQUEST_SIGNUP) {
